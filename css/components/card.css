@@ -50,3 +50,7 @@
   object-position: center;
   flex-grow: 1;
 }
+
+.fa-star {
+  color: rgb(255, 230, 0);
+}
