@@ -1,0 +1,30 @@
+Fontawesome Icons:
+<i class="fa-solid fa-star"></i>
+<i class="fa-solid fa-heart"></i>
+
+stars color:  rgb(255, 230, 0)
+
+Page:
+https://www.kickstarter.com/projects/haloasis/haloasis-a1-holographic-lyric-speaker?ref=discovery_category
+
+Product title: 
+Haloasis A1 - Holographic Lyric Wireless Speaker
+
+Product description:
+Introducing the Haloasis A1, a revolutionary wireless speaker that redefines audiovisual experiences with its groundbreaking holographic display and immersive sound.
+
+Product(top-photo):
+https://i.kickstarter.com/assets/044/658/804/d7b10bcbb95371f6abb8921d89074287_original.jpg?fit=scale-down&origin=ugc&q=92&width=680&sig=Ezlqbu%2Ff7MgLO%2FftebpLL1jl5wvlKn7Vrazha%2BOsNuI%3D
+
+
+Video (middle-photo):
+https://i.kickstarter.com/assets/044/234/984/7f9f291b218a6600b1d3c30bb3bbb59c_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=85ROXiayEDRT5g0bNV%2BXBYKXPYqptPlSE8R0rSk1bB4%3D
+
+
+3 more pics(bottom-photos):
+
+https://i.kickstarter.com/assets/044/234/984/7f9f291b218a6600b1d3c30bb3bbb59c_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=85ROXiayEDRT5g0bNV%2BXBYKXPYqptPlSE8R0rSk1bB4%3D
+
+https://i.kickstarter.com/assets/044/234/983/8a1456003bfd626e85895950ceefbf8c_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=dKG%2B3%2FHZOJhCn8k%2FWgPiFJF6GsCe1dhSOUqKh90pKEU%3D
+
+https://i.kickstarter.com/assets/044/235/016/32b600c46be7bbb8a3d13bc037e40734_original.gif?fit=scale-down&origin=ugc&q=92&width=680&sig=4zv2JZe2%2BzbgXbJODAo9YFHl%2B1%2BiC7su3TrD2FqvjA0%3D
